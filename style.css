@@ -1,0 +1,9 @@
+/* Style for body */
+body {
+      background-color: #f8f9fa;
+    }
+    /* Style for product image */
+.product-img {
+      height: 160px;
+      object-fit: contain;
+    }
